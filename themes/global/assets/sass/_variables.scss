@@ -1,0 +1,190 @@
+//  COLOR VARS
+// $white: #FFFFFF;
+// $black: #000000;
+
+
+
+
+$mid-grey:#80878D;
+$semi-grey: #D5D5D5;
+$light-grey: #F4F4F4;
+// FONT FAMILIES
+$ff-muli: 'Muli';
+$ff-fa: 'FontAwesome';
+
+$rgb-box-shadow-color: rgba(139, 136, 136, 0.7);
+
+// General Variables
+
+// $body-bg-color:#FFFFFF;
+$base-color: $mid-grey;
+
+$nav-dd-bg: #F4F4F4;
+
+$footer-color: #fff;
+
+
+//*****************************************************************************
+//*****************************************************************************
+
+// $ff-muli: 'Muli';
+$ff-merriweather: 'Merriweather', serif;
+$ff-notosans: 'Noto Sans', sans-serif;
+$ff-notoserif: 'Noto Serif', serif;
+$ff-fa: 'FontAwesome';
+
+//  new vars
+$white: #FFFFFF;
+$black: #000000;
+$light-brown: #A68435;
+$dark-brown: #5B4B25;
+$body-text-grey: #535353;
+$background-grey: #F5F5F5;
+$border-grey: #E3E3E3;
+$form-border-grey: #D8D8D8;
+
+$dark-blue: #0A1320;
+
+
+$body-bg-color:#FFFFFF;
+$base-color: $white;
+
+
+$nav-dd-bg: #FFFFFF;
+
+$content-color: black;
+
+$base-font: $ff-notosans , sans-serif;
+$base-font-size: 14px;
+$base-line-height: 22px;
+
+$anchor-color: $dark-brown;
+$anchor-hover-color: $light-brown;
+$anchor-font-weight: 400;
+
+$heading-font:$ff-notoserif;
+$heading-font-weight: 400;
+
+$form-control-bg-color: #FFFFFF;
+$form-control-border-color: $form-border-grey;
+
+$graphics-dir-path: '../../graphics/' !default;
+$fonts-dir-path: '../fonts/' !default;
+
+
+/**
+ * tour vars
+ */
+
+$ff-raleway: 'Raleway', sans-serif;
+$ff-playfair: 'Playfair Display', serif;
+
+/**
+ * colors
+ * 
+ */
+$blue:#2e87e3;
+$dark-blue: #005E8D;
+$light-black:#45484f;
+$grey:#eaebec;
+$white-grey:#fcfcfc;
+
+//theme 2
+$orange:#E3862A;
+$dark-orange:#b56617;
+
+//theme 3
+$green:#61b62f;
+$dark-green:#4E9326;
+/**
+ * tours
+ */
+$bg-color-activity-list: $grey;
+$h2-ffcolor-activity-list:$orange;
+
+/**
+ * nav
+ */
+//upper
+$btn-bgcolor-headerUpper-booking:$orange;
+$btn-ffcolor-headerUpper-booking:$white;
+$btn-hovcolor-headerUpper-booking:$dark-orange;
+//primary
+$bg-color-headerlower: $light-black;
+$bg-color-headerlower-subnav:$orange;
+$a-ffcolor-headerlower-subnav:$orange;
+
+/*
+mobile
+ */
+$bg-color-mobnav: $light-black;
+
+/**
+ * main tro
+ */
+$h1-ffcolor-intro:$orange;
+$btn-ffcolor-intro: $orange;
+$btn-hovcolor-intro:$orange;
+
+/**
+ * quicklinks
+ */
+$bg-gridcolor-quicklinks:$grey;
+$btn-bgcolor-quicklink:$light-black;
+$btn-ffcolor-quicklink:$white-grey;
+$h3-ffcolor-quicklinks:$orange;
+$btn-hovcolor-quicklinks:$orange;
+$bg-qlcolor-quicklinks:$white;
+
+/**
+ * footer reviews
+ */
+$h1-ffcolor-footer-reviews:$orange;
+$btn-bgcolor-footer-reviews:$orange;
+$btn-ffcolor-footer-reviews:$white;
+$btn-hovcolor-footer-reviews:$dark-orange;
+$p-ffcolor-footer-reviews-details: $light-black;
+
+
+//footer newsletter
+$bg-color-footer-newsletter: $grey;
+
+//footer other-info
+$bg-color-footer-otherinfo:$light-black;
+$text-ffcolor-footer-otherinfo:$white-grey;
+$icon-ffcolor-footer-otherinfo:$orange;
+
+//footer nav
+$bg-color-footer-nav:$grey;
+$text-ffcolor-footer-nav:$light-black;
+$hov-ffcolor-footer-nav:$orange;
+
+/**
+ * blog 
+ */
+$h2-ffcolor-blog: $orange;
+$h2-ffcolor-hover-blog: $dark-orange;
+
+/**
+ * activity single
+ */
+$activity-nav-color: $black;
+$activity-nav-hv-color: $orange;
+$activity-price-color: $white;
+$activity-price-bg-color: $orange;
+$activity-price-des-color: $grey;
+$activity-enquire-btn-color: $light-black;
+$activity-enquire-btn-hv-color:$orange;
+$activity-booknow-btn-color: $orange;
+$activity-booknow-btn-hv-color: $dark-orange;
+$activity-gallery-heading-color: $orange;
+$activity-sub-toggle-color: $orange;
+
+/**
+ * 
+ */
+$icon-ffcolor-nav: $orange;
+$h-ffcolor-global:$orange;
+$bg-color-sticker:$orange;
+$btn-color-gallery: $orange;
+$icon-ffcolor-nav-angle: $orange;

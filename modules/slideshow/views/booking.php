@@ -1,0 +1,12 @@
+<?php
+
+$booking .= <<<HTML
+
+   
+    
+
+
+HTML;
+
+
+?>

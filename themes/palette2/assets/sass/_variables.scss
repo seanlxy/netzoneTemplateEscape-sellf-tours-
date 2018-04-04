@@ -1,0 +1,201 @@
+//  COLOR VARS
+// $white: #FFFFFF;
+// $black: #000000;
+$dark-green: #1A6135;
+$mid-green: #A4CF5C;
+$light-green: #97CF84;
+$semi-light-green: #6BAE59;
+$mid-grey:#80878D;
+$semi-grey: #D5D5D5;
+$light-grey: #F4F4F4;
+// FONT FAMILIES
+$ff-muli: 'Muli';
+$ff-fa: 'FontAwesome';
+
+$rgb-box-shadow-color: rgba(139, 136, 136, 0.7);
+
+// General Variables
+
+// $body-bg-color:#FFFFFF;
+$base-color: $mid-grey;
+
+$nav-dd-bg: #F4F4F4;
+
+$footer-color: #fff;
+// $content-color: inherit;
+
+// $base-font: $ff-muli, sans-serif;
+// $base-font-size: 18px;
+// $base-line-height: 28px;
+
+// $anchor-color: $dark-green;
+// $anchor-hover-color: $semi-light-green;
+// $anchor-font-weight: 400;
+
+// $heading-font:$base-font;
+// $heading-font-weight: 400;
+
+// $form-control-bg-color: #FFFFFF;
+// $form-control-border-color: #E4E2E2;
+
+// $graphics-dir-path: '../../graphics/' !default;
+// $fonts-dir-path: '../fonts/' !default;
+
+//*****************************************************************************
+//*****************************************************************************
+
+// $ff-muli: 'Muli';
+$ff-merriweather: 'Merriweather', serif;
+$ff-notosans: 'Noto Sans', sans-serif;
+$ff-notoserif: 'Noto Serif', serif;
+$ff-fa: 'FontAwesome';
+
+//  new vars
+$white: #FFFFFF;
+$black: #000000;
+$light-brown: #A68435;
+$dark-brown: #5B4B25;
+$body-text-grey: #535353;
+$background-grey: #F5F5F5;
+$border-grey: #E3E3E3;
+$form-border-grey: #D8D8D8;
+
+$dark-blue: #0A1320;
+
+
+$body-bg-color:#FFFFFF;
+$base-color: $white;
+
+
+$nav-dd-bg: #FFFFFF;
+
+$content-color: black;
+
+$base-font: $ff-notosans , sans-serif;
+$base-font-size: 14px;
+$base-line-height: 22px;
+
+$anchor-color: $dark-brown;
+$anchor-hover-color: $light-brown;
+$anchor-font-weight: 400;
+
+$heading-font:$ff-notoserif;
+$heading-font-weight: 400;
+
+$form-control-bg-color: #FFFFFF;
+$form-control-border-color: $form-border-grey;
+
+$graphics-dir-path: '../../../global/graphics/' !default;
+$fonts-dir-path: '../../../../themes/global/assets/fonts/' !default;
+
+
+/**
+ * tour vars
+ */
+
+$ff-raleway: 'Raleway', sans-serif;
+$ff-playfair: 'Playfair Display', serif;
+
+/**
+ * colors
+ * 
+ */
+$blue:#2e87e3;
+$dark-blue: #005E8D;
+$light-black:#45484f;
+$grey:#eaebec;
+$white-grey:#fcfcfc;
+
+/**
+ * tours
+ */
+$bg-color-activity-list: $grey;
+$h2-ffcolor-activity-list: $blue;
+
+/**
+ * nav
+ */
+//upper
+$btn-bgcolor-headerUpper-booking:$blue;
+$btn-ffcolor-headerUpper-booking:$white;
+$btn-hovcolor-headerUpper-booking:$dark-blue;
+//primary
+$bg-color-headerlower: $light-black;
+$bg-color-headerlower-subnav:$blue;
+$a-ffcolor-headerlower-subnav:$blue;
+
+/*
+mobile
+ */
+$bg-color-mobnav: $light-black;
+
+/**
+ * main tro
+ */
+$h1-ffcolor-intro: $blue;
+$btn-ffcolor-intro: $blue;
+$btn-hovcolor-intro: $blue;
+
+/**
+ * quicklinks
+ */
+$bg-gridcolor-quicklinks:$grey;
+$btn-bgcolor-quicklink:$light-black;
+$btn-ffcolor-quicklink:$white-grey;
+$h3-ffcolor-quicklinks:$blue;
+$btn-hovcolor-quicklinks:$blue;
+$bg-qlcolor-quicklinks:$white;
+
+/**
+ * footer reviews
+ */
+$h1-ffcolor-footer-reviews:$blue;
+$btn-bgcolor-footer-reviews:$blue;
+$btn-ffcolor-footer-reviews:$white;
+$btn-hovcolor-footer-reviews:$dark-blue;
+$p-ffcolor-footer-reviews-details: $light-black;
+
+
+//footer newsletter
+$bg-color-footer-newsletter: $grey;
+
+//footer other-info
+$bg-color-footer-otherinfo:$light-black;
+$text-ffcolor-footer-otherinfo:$white-grey;
+$icon-ffcolor-footer-otherinfo:$blue;
+
+//footer nav
+$bg-color-footer-nav:$grey;
+$text-ffcolor-footer-nav:$light-black;
+$hov-ffcolor-footer-nav:$blue;
+
+/**
+ * blog 
+ */
+$h2-ffcolor-blog: $blue;
+$h2-ffcolor-hover-blog: $dark-blue;
+
+/**
+ * activity single
+ */
+$activity-nav-color: $black;
+$activity-nav-hv-color: $blue;
+$activity-price-color: $white;
+$activity-price-bg-color: $blue;
+$activity-price-des-color: $grey;
+$activity-enquire-btn-color: $light-black;
+$activity-enquire-btn-hv-color: $blue;
+$activity-booknow-btn-color: $blue;
+$activity-booknow-btn-hv-color: $dark-blue;
+$activity-gallery-heading-color: $blue;
+$activity-sub-toggle-color: $blue;
+
+
+/**
+ * 
+ */
+$icon-ffcolor-nav: $blue;
+$h-ffcolor-global:$blue;
+$bg-color-sticker:$blue;
+$btn-color-gallery: $blue;
+$icon-ffcolor-nav-angle: $blue;
